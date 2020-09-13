@@ -1,6 +1,6 @@
 ---
 title: "p_8105_hw1_ep2899"
-output: html_document
+output: github_document
 ---
 
 I'm an R Markdown document! 
